@@ -201,6 +201,6 @@
 
 #### Q34. What is the name for the practice of going to see a process in use at the point of value delivery?
 - [ ] Six Sigma
-- [ ] Gemba walk
+- [x] Gemba walk
 - [ ] Total Quality Management
 - [ ] Kaizen
